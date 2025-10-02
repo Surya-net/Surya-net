@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👨‍💻 Surya's Coding Skills
 
-<!--
-**Surya-net/Surya-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Surya, a passionate coder with experience in multiple programming languages and tools. Here's a quick overview of what I can do:
 
-Here are some ideas to get you started:
+## 💻 Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2003.svg)
+![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+
+---
+
+## 🔧 What I Can Do
+
+- **Python**: Scripting, automation, data analysis
+- **C**: System programming, embedded systems
+- **Java**: Object-oriented applications, Android development
+- **HTML5 & CSS3**: Web development, responsive design
+- **SQL**: Database management, queries, optimization
+- **Linux**: Command-line operations, shell scripting
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-net&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
+
+---
+
+Feel free to explore my repositories and connect with me for collaborations or discussions!
