@@ -1,16 +1,6 @@
-# My Coding Skills
+# About Me
 
 I'm Surya, a passionate coder with experience in multiple programming languages and tools. Here's a quick overview of what I can do:
-
-### Languages & Tools
-
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){width=80} 
-![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png){width=80} 
-![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg){width=80} 
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg){width=80} 
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg){width=80} 
-![SQL](https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_logo_2003.svg){width=80} 
-![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg){width=80}
 
 ---
 
@@ -31,4 +21,4 @@ I'm Surya, a passionate coder with experience in multiple programming languages 
 
 ---
 
-Feel free to explore my repositories and connect with me for collaborations or discussions!
+Feel free to explore my repositories, make changes and connect with me for collaborations or discussions!
